@@ -1,0 +1,12 @@
+/.vscode/
+/*.o
+/*.dll
+/*.lib
+/*.exp
+/*.aps
+/*Dbg/
+/*Rel/
+/*.vcb
+/*.vcl
+/*.vco
+/RC*

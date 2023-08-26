@@ -1,0 +1,10 @@
+/.vscode/
+/*.o
+/*.lib
+/*.aps
+/*Dbg/
+/*Rel/
+/*.vcb
+/*.vcl
+/*.vco
+/RC*
